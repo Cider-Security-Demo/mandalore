@@ -342,4 +342,4 @@ Also, co-maintainer is needed here. If anyone is interested, please email me (pa
 
 ## License
 
-GoRequest is MIT License.
+GoRequest is MIT License..
