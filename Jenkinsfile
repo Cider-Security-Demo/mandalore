@@ -14,6 +14,7 @@ pipeline {
             steps {
                 sh '''
                     jq -r .name package.json
+                    python3 /var/lib/jenkins/workspace/mandalore/test.py
                 '''
         }
     }
